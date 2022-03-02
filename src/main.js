@@ -38,7 +38,7 @@ const router = new VueRouter({
     }, {
       path: '/rule', component: PassRulePage
     }, {
-      path: '/', component: WechatPage
+      path: '/wechat', component: WechatPage
     }, {
       path: '/scan', component: ScanPage
     }, {
